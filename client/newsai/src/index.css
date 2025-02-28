@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+#news{
+    font-family: polysons neutral;
+}
